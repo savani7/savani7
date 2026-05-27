@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sav 👋
 
-<!--
-**savani7/savani7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in software development and app development. I enjoy exploring new technologies, building small projects, and improving my programming skills through hands-on learning and practice.
 
-Here are some ideas to get you started:
+I have worked with languages and tools like Java, C++, Python, Flutter, Firebase, Git, and GitHub. While I’m still learning and growing as a developer, I’m always motivated to improve my technical skills and gain real-world experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+- Java
+- C++
+- Python
+- Flutter
+- Firebase
+- Git & GitHub
+
+## Areas of Interest
+- App Development
+- Software Development
+- Problem Solving
+- Learning Modern Technologies
+
+## Goals
+- Improve development skills
+- Build practical projects
+- Gain industry experience
+- Grow as a software developer
+
+Thanks for visiting my profile 🚀
