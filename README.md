@@ -1,4 +1,4 @@
-# Hi, I'm Sav 👋
+# Hi, I'm Savani 👋
 
 Computer Science student interested in software development and app development. I enjoy exploring new technologies, building small projects, and improving my programming skills through hands-on learning and practice.
 
